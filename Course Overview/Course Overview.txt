@@ -1,0 +1,17 @@
+CSharp Fundamentals:
+
+Small brief about CSharp :
+    1. CSharp has consistently been one of the top 3 programming.
+    2. It's used widely in the industry.
+    3. It's an expressive and powerful language.
+
+what we learn in this course :
+    1. CSharp
+    2. .NET Framework
+    3. Build a gradebook application
+    4. define classes and methods
+    5. Error handling
+    6. Object oriented programming
+
+Prerequisites:
+    1. Basic programming knowledge
