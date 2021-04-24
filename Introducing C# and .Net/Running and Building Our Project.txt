@@ -1,0 +1,24 @@
+create a console dotnet application:
+
+    1. dotnet new console
+    2. dotnet run   // current dir has project
+    3. dotnet run --project (path specified)
+    4. dotnet restore  
+        note: 
+        1. (.NET, there is a package system known as NuGet)
+        2. A package system allows my application to take advantage of features and functionality that are in other bits of code that other developers have writtern.
+        3. what ever my application needs a feature that is in Nuget package then .Net Core recorded that needed package information in to "GradeBook.csproj". 
+        4. once execute the dotnet restore command in cmd line interface then dotnet restore looking into GradeBook.csproj file if see any other dependencies needed then it's restored.
+    5. dotnet build 
+        1. firstly they complied source code translate into efficient binary code.
+        2. The C# compiler can come along at all of the c# source code that is in single output file that is binary.
+        3. The file that dotnet build produces is this file GradeBook.dll
+            note: 
+            1. DLL means Dynamic Link Library called as assembly.
+            2. Assembly is the output of the c# compiler or the VB.
+        4. Once run the dotnet build bin floder was created.
+        5. GradeBook.dll is Inside the bin folder.
+        6. it is easy to debug having GradeBook.dll.
+        7. Another folder obj and this folder contains only temporary files for during the restore and build process.
+        
+
