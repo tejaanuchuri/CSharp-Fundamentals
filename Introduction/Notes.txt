@@ -1,0 +1,18 @@
+C# : 
+    1. is a simple
+    2. is a modern
+    3. general-purpose
+    4. object-oriented programming language
+    5. developed by microsoft within its .NET initiative led by Anders Heijsberg.
+    6. developed around 2000.
+    7. current version c# 9.0 sep 2020.
+    8. pronounced as “C sharp”
+    9. easy to start.
+    10. Widely used for developing Desktop,web Applications and webservices.
+    11. has a large Community.
+    12. is used in Game Development also.
+    13. In Windows c# is developed within .NET framework.
+    14. Mono can be used to run C# programs on Linux.
+    15. C# is a lot similar to other Widely used languages syntactically.
+    16. c-sharp also used in Game Development in Unity.
+    17. C# runs slowly and programs needs to be compiled each time when they changes are made.

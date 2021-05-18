@@ -1,3 +1,0 @@
-Requirements :
-    1. visual studio code (editor) which is available in (https://code.visualstudio.com/download)
-    2. .NET Core SDK which is available in (https://dotnet.microsoft.com/download)
